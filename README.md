@@ -2,7 +2,7 @@
 Hi, I am Harshawardhan! Welcome to my portfolio. I hold a Masters of science degree in Business Analytics (STEM) from the University of North Texas. I am Motivated Data Analyst with 8+ years of experience in data harmonization and analytics to optimize business process andenhance operational efficiency. Proficient in Python, SQL, SnowFalke, Tableau, Qlikview, Excel and Power BI to uncover actionable insights and support data-driven decisions. Adept atidentifying process inefficiencies and implementing pragmatic solutions while working closely with cross-functional<br>groups. Strong statistics and machine learning background with expertise in Supply Chain, Manufacturing, Procurement, Inventory and Accounting. I am passionate about leveraging data-driven solutions to solve real-world problems. Explore my projects and feel free to connect!
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshawardhanborude/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshawardhanbabanborude@my.unt.edu) 
 
 # 💻 Tech Stack:
